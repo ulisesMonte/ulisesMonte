@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 GEEKERS<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://www.pinterest.cl/pin/738308932682081430/)" width="30px"></h2>
+<h2> Hello Bro<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://www.pinterest.cl/pin/738308932682081430/)" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pushpneet-singh-155a9015a/) 
 [![Gmail Badge](https://img.shields.io/badge/-pushpneetsingh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:pushpneetsingh99@gmail.com)
