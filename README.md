@@ -32,8 +32,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 ![C#](https://img.shields.io/badge/Csharp-5A29E4?style=flat-square&logo=Csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-228B22?style=flat-square&logo=Bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/-bash-grey?logo=linux)
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Backend Development
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
