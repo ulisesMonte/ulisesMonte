@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Student` of [Cibersecurity](https:/hack4u.io/) in [hack4yu](https://hack4u.io/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- 🧑‍🎓: certified in 2023 as a [`backend developer`](https://www.linkedin.com/feed/update/urn:li:activity:7132673355320602625/)
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
