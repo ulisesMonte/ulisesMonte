@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 GEEKERS<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://www.pinterest.cl/pin/738308932682081430/)" width="30px"></h2>
 
-<!--
-**ulisesMonte/ulisesMonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pushpneet-singh-155a9015a/) 
+[![Gmail Badge](https://img.shields.io/badge/-pushpneetsingh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:pushpneetsingh99@gmail.com)
 
-Here are some ideas to get you started:
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😃 Talk to me about!!
+
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS**
+- Backend development using **Node Js**
+- Machine Learning
+- Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+
+-----
+Credits: [Pushpneet Singh](https://github.com/PushpneetSingh)
+
+Last Edited on: 08/12/2020
