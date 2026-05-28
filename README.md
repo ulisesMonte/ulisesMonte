@@ -21,7 +21,7 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 - 🎓 Studying **Information Systems at UBA** (Universidad de Buenos Aires)
 - ☁️ Certified **Google Cloud Professional Machine Learning Engineer** (2026)
-- 🌎 Open to **remote opportunities** with international tech companies
+- 🌎 Open to **opportunities** with tech companies
 - 📍 Based in **Buenos Aires, Argentina**
 
 ---
