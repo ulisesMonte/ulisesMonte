@@ -109,10 +109,3 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 </div>
 
----
-
-<div align="center">
-
-*Open to remote senior engineering roles — national and international companies welcome*
-
-</div>
