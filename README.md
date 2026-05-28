@@ -38,20 +38,10 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 `TypeScript` `NestJS`
 
-### 📚 libreria-backend
-> RESTful backend API for a library management system.
-
-`TypeScript` `Node.js` `REST API`
-
 ### 💬 chat-webSockets
 > Real-time multi-user chat application using WebSockets.
 
 `HTML` `JavaScript` `WebSockets`
-
-### ☕ CRUDenjava
-> Full CRUD application built with Java — demonstrating core backend patterns.
-
-`Java` `Spring Boot`
 
 ### 🎮 arkanoid
 > Classic Arkanoid game implemented in C++ — low-level memory management and real-time rendering.
