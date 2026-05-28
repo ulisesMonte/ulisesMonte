@@ -36,7 +36,7 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 ### 🛒 [Ecommerce](https://github.com/ulisesMonte/eccomerce)
 > Full-stack ecommerce platform built with the MERN stack, designed for scalable product management, authentication, shopping workflows, and business operations. Developed with a modular architecture and production-oriented backend services.
 
-`MongoDB` `NestJS` `Express.js` `React` `Node.js` `MERN Stack` `JavaScript`
+`MongoDB` `Express.js` `Node.js` 
 
 ### 🎮 arkanoid
 > Classic Arkanoid game implemented in C++ — low-level memory management and real-time rendering.
