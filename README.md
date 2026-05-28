@@ -33,15 +33,10 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 `Python` `MCP` `LLM Agents` `Linux` `BSPWM`
 
-### 🏦 intranet
-> Enterprise intranet system built with TypeScript — internal tooling for business operations.
+### 🏦 Ecoomerce(https://github.com/ulisesMonte/eccomerce)
+> Full-stack ecommerce platform built with the MERN stack, designed for scalable product management, authentication, shopping workflows, and business operations. Developed with a modular architecture and production-oriented backend services.
 
-`TypeScript` `NestJS`
-
-### 💬 chat-webSockets
-> Real-time multi-user chat application using WebSockets.
-
-`HTML` `JavaScript` `WebSockets`
+`MongoDB` `NestJS` `Express.js` `React` `Node.js` `MERN Stack` `JavaScript`
 
 ### 🎮 arkanoid
 > Classic Arkanoid game implemented in C++ — low-level memory management and real-time rendering.
