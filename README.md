@@ -33,6 +33,12 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 `Python` `MCP` `LLM Agents` `Linux` `BSPWM`
 
+### 🏢 [NestJS Intranet API](https://github.com/ulisesMonte/nestjs-intranet-api)
+
+> RESTful API built with NestJS for managing employees, work sessions and leave requests inside a company intranet. Designed with JWT authentication, role-based access control, PostgreSQL persistence and REST-oriented architecture following production-ready backend practices.
+
+`NestJS` `TypeScript` `PostgreSQL` `JWT` `TypeORM` `REST API` 
+
 ### 🛒 [Ecommerce](https://github.com/ulisesMonte/eccomerce)
 > Full-stack ecommerce platform built with the MERN stack, designed for scalable product management, authentication, shopping workflows, and business operations. Developed with a modular architecture and production-oriented backend services.
 
