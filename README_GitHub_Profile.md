@@ -114,8 +114,7 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 <div align="center">
 
-![Ulises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulisesMonte&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ulisesMonte&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
