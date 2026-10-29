@@ -26,7 +26,7 @@ I also have experience integrating AI into enterprise systems — multi-agent ar
 - ☁️ Certified Google Cloud Professional Machine Learning Engineer (2026)
 - 🌎 Open to opportunities with tech companies
 - 📍 Based in Buenos Aires, Argentina
----
+
 
 ## 🚀 Featured Projects
 
