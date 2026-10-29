@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ulises Monteverde
-### Full Stack Engineer · LLM Agents & MCP · GCP ML Certified
+### IAM Engineer · Identity & Authentication · Full Stack · GCP ML Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulises-monteverde)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulisesmonteverdetusso@gmail.com)
@@ -13,17 +13,19 @@
 
 ## 👨‍💻 About me
 
-Backend-focused Full Stack Engineer specializing in **microservices with NestJS**, **ML model development**, and **LLM-powered agent applications**.
+IAM Engineer specialized in identity, authentication and digital security solutions for banking environments. My work focuses on designing and implementing solutions that manage identities and access securely, combining identity technologies with software development and cloud architectures.
 
-Currently building backend systems, training and deploying machine learning models, and developing applications with integrated AI agents — combining solid engineering foundations with cutting-edge AI tooling including the **Model Context Protocol (MCP)**.
+Currently working with Transmit Security (Mosaic), developing and integrating identity and authentication solutions using OAuth 2.0, OpenID Connect (OIDC) and SSO.
 
-My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — Argentina's most prestigious national tech award.
+My previous background in backend development includes building microservices and secure APIs with Python, NestJS and Java/Spring Boot, as well as enterprise infrastructure work and Oracle database migrations in production environments.
 
-- 🎓 Studying **Information Systems at UBA** (Universidad de Buenos Aires)
-- ☁️ Certified **Google Cloud Professional Machine Learning Engineer** (2026)
-- 🌎 Open to **opportunities** with tech companies
-- 📍 Based in **Buenos Aires, Argentina**
+I also have experience integrating AI into enterprise systems — multi-agent architectures, LLM integration through the Model Context Protocol (MCP), and ML model deployment on GCP via CI/CD/CT pipelines.
 
+
+- 🎓 Studying Information Systems at UBA (Universidad de Buenos Aires)
+- ☁️ Certified Google Cloud Professional Machine Learning Engineer (2026)
+- 🌎 Open to opportunities with tech companies
+- 📍 Based in Buenos Aires, Argentina
 ---
 
 ## 🚀 Featured Projects
