@@ -28,6 +28,7 @@ I also have experience integrating AI into enterprise systems — multi-agent ar
 - 📍 Based in Buenos Aires, Argentina
 
 
+
 ## 🚀 Featured Projects
 
 
